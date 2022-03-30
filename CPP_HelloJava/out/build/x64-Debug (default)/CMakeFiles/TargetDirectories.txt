@@ -1,0 +1,3 @@
+C:/Users/yuliiatopalova/source/repos/HelloJava/out/build/x64-Debug (default)/CMakeFiles/MyCPPLibrary0.dir
+C:/Users/yuliiatopalova/source/repos/HelloJava/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/yuliiatopalova/source/repos/HelloJava/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
